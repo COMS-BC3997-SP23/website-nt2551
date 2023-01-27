@@ -11,6 +11,7 @@ Goals and Objectives:
 4. Use K Means Clustering among the entire dataset containing genes of interest
 5. Use Support Vector Machine (svm) among the entire dataset containing genes of interest
 
-Method: The machine learning portion of this experiment will be done in R, using the keras package and different algorithms in order to see which ones are the best at fitting the data. The three main algorithms that will be tested are the Naive Bayes Classifier, Support Vector Machine (svm), and K Means Clustering.  
+Method: The machine learning portion of this experiment will be done in R, using the keras package and different algorithms in order to see which ones are the best at fitting the data. The three main algorithms that will be tested are the Naive Bayes Classifier, Support Vector Machine (svm), and K Means Clustering. 
+
 Similar Projects: This past summer, I had the opportunity to intern with Pfizer and worked with a similarly large online dataset known as NHANES. That project gave me insight into how to best handle iterating through and trimming down large datasets, which is essential in making sure that information of interest gets properly examined. 
 
