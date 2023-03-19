@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Project Week 5
+title: Week 5
 parent: Updates
 ---
 
-## Project Week 5
+## Week 5
 
 ### Research Questions and Hypotheses
 In my research, I’m interested in assessing how noise complaints shifted in New York City during the pandemic and in comparison to pre-pandemic periods.
