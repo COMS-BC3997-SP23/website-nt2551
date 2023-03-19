@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Project Week 6
+title: Week 6
 parent: Updates
 ---
 
-## Project Week 6
+## Week 6
 
 This week, I wanted to continue some preprocessing by adding neighborhood information to each row in the database and doing some stats on neighborhood/zip code data.
 
