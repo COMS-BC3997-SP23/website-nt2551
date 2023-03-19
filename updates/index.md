@@ -5,4 +5,4 @@ has_children: true
 permalink: /updates/index
 ---
 
-# Project Progress
+## Project Progress
