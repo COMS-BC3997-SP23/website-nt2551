@@ -1,0 +1,17 @@
+---
+title: Week 3
+subtitle: UI Development
+layout: default
+modal-id: 3
+date: 2023-02-13
+img: w3.png
+thumbnail: w3-thumbnail.png
+alt: image-alt
+project-date: February 13th, 2023
+
+[//]: # (client: Start Bootstrap)
+category: UI Development
+description: This week is the week where I start developing the app's user interface, ensuring it is user-friendly and intuitive. I looked at the inspirations for my app UI on Dribbble. I put everything together (all of the designs that I like) into a Figma prototype and start to design my 3 main frames, which is the structure of my app (Design, AR camera, Profile). I also chose a color scheme and might not stick with it.
+
+
+---

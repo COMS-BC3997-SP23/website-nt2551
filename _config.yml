@@ -1,0 +1,60 @@
+url: https://coms-bc3997-sp23.github.io/website-chloe2781/
+baseurl: /website-chloe2781/
+
+# Site settings
+title: nailARt
+email: "cn2489@barnard.edu"
+description: "Discover the latest in nail design technology with NailARt. Our innovative app uses augmented reality to bring your nail design dreams to life. Simply use your phone camera to see different designs on your own hands in real-time. Say goodbye to time-consuming and unsatisfying nail design choices, and hello to an easier, more enjoyable experience. Download NailARt now and upgrade your nail game today!"
+
+# Team names, titles and social links
+people:
+- name: Chloe Nguyen
+  pic: IMG_1
+  position: Developer
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/chloe-nguyen2781/
+    - title: instagram
+      url: https://www.instagram.com/mchaauuu/
+    - title: github
+      url: https://github.com/chloe2781
+
+#- name: Larry Parker
+#  pic: 2
+#  position: Lead Marketer
+#  social:
+#    - title: twitter
+#      url: #
+#    - title: facebook
+#      url: #
+#    - title: linkedin
+#      url: #
+#
+#- name: Diana Petersen
+#  pic: 3
+#  position: Lead Developer
+#  social:
+#    - title: twitter
+#      url: #
+#    - title: facebook
+#      url: #
+#    - title: google-plus
+#      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/chloe-nguyen2781/
+  - title: instagram
+    url: https://www.instagram.com/mchaauuu/
+  - title: github
+    url: https://github.com/chloe2781
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 3009 Broadway
+  - line: New York, NY 10027
+
+# Build settings
+markdown: kramdown
+permalink: pretty

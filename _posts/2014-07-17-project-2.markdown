@@ -1,0 +1,16 @@
+---
+title: Week 2
+subtitle: Technical Design
+layout: default
+modal-id: 2
+date: 2023-02-6
+img: w2.png
+thumbnail: w2-thumbnail.png
+alt: image-alt
+project-date: February 6th, 2023
+
+[//]: # (client: Start Bootstrap)
+category: Technology Selection
+description: I explored a few technology to build this and some options came up. For app development I will be using React Native since I’ve tried it before and it worked well for me so it’s a solid option for this project. For AR options, I looked at SparkAR and SnapAR. SparkAR didn't support hand gesture before, but they might now, so it might not be very good. For SnapAR, I tried a hand filter and it's pretty good. The accuracy is not to what I expected, so I might want to see if I can improve this.
+
+---

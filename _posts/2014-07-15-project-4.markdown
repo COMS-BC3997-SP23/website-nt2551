@@ -1,0 +1,15 @@
+---
+title: Week 4
+subtitle: UI Development (cont.)
+layout: default
+modal-id: 4
+date: 2023-02-20
+img: w4.png
+thumbnail: w4-thumbnail.png
+alt: image-alt
+project-date: February 20th, 2023
+client: Start Bootstrap
+category: Web Development
+description: This week I struggle with the Design because it looks too much and I could not see where was the main components and what I should do in the page. I got feedback by one of my friends who works in product design/management and he gave me some advice on how to improve my design. He told me that I should turn all the colors to grey scale and make the more important components darker. So this week I did that and will be redoing my color next week.
+
+---

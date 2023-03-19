@@ -1,0 +1,17 @@
+---
+title: Week1
+subtitle: Project Kickoff
+layout: default
+modal-id: 1
+date: 2023-01-31
+img: w1.png
+thumbnail: w1-thumbnail.png
+alt: image-alt
+project-date: January 31st, 2023
+
+[//]: # (client: Start Bootstrap)
+category: Idea Formation
+description: I proposed the development of an innovative app that leverages augmented reality technology to provide a more accurate and convenient way of designing and selecting nail designs. This app will allow users to preview different designs on their own hands in real-time through the use of their phone camera. The most important goal of this project is to use AR and preview the pre-made nail designs The secondary goal of this project is to allow user design nails directly on the app and then view the nails they designed through the AR function
+
+
+---
