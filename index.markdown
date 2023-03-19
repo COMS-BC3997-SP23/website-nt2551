@@ -4,8 +4,6 @@
 
 layout: home
 ---
-# 311 Data Project
+# Neuroscience Research Project
 
-For my project in COMS BC 3997, I plan to build a website supported by the NYC 311 Call database in order to analyze and visualize 311 service requests in New York City over the course of the COVID-19 pandemic. In this project, I plan to combine data with city history in order to see how city residents' living situations, anxieties, and needs changed in accordance with landmark moments throughout the pandemic.
-
-Keep checking my site to stay updated on progress!
+The project I'm doing for COMS BC3997 involves using machine learning on single cell dataset to provide insight for neurodegenerative diseases such as Alzheimer’s and Parkinson’s. The dataset is a count matrix that contains the gene mapping of each of the individuals sampled for the dataset. By first cleaning up the dataset to isolate genes of interest and then using various machine learning techniques, I hope to find commonalities between the expressed genes and a patient's diagnosis. Updates to the website will be made weekly, and can be seen through the pages on the right hand side. 
