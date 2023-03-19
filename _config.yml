@@ -1,0 +1,8 @@
+logo: /assets/img/shop.png
+show_downloads: true
+google_analytics:
+remote_theme: pages-themes/minimal@v0.2.0
+
+# Customization
+title: "BC3997 Project"
+description: "The process of building a website for Magic Tailor's a small tailor shop that handles adjustments and ad hoc clothing requests."
