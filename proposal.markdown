@@ -16,7 +16,7 @@ The lab I’m currently working with has generated a single cell dataset that is
 1. Clean up the dataset and narrow it down to the information/genes of interest
 2. Create the neural net using the nnet function in Keras and use over a small subset of the data
 3. Apply neural network to the entire data subset and fine tune parameters
-4. Use K-Nearest Neighbors among the entire dataset containing genes of interest
+4. Use K-Nearest Neighbors (knn) among the entire dataset containing genes of interest
 5. Use Support Vector Machine (svm) among the entire dataset containing genes of interest
 
 ### Method
