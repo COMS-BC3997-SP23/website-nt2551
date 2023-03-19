@@ -6,4 +6,4 @@ parent: Updates
 
 ## Week 3
 
-![](Image1.png)
+![](https://github.com/COMS-BC3997-SP23/website-nt2551/blob/main/Image1.png)
