@@ -1,0 +1,7 @@
+main:
+  - title: "Home"
+    url: "/"
+  - title: "GitHub"
+    url: "https://github.com/COMS-BC3997-SP23"
+  - title: "People"
+    url: "/people"
