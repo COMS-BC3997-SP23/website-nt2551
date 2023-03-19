@@ -12,6 +12,6 @@ The first thing I did was try and familiarize myself with machine learning in R,
 
 ## Citations 
 
-1 [https://www.datacamp.com/tutorial/machine-learning-in-r](https://www.datacamp.com/tutorial/neural-network-models-r)
+1 [Building Neural Network (NN) Models in R](https://www.datacamp.com/tutorial/neural-network-models-r)
 
-2 [https://machinelearningmastery.com/machine-learning-in-r-step-by-step/](https://machinelearningmastery.com/machine-learning-in-r-step-by-step/)
+2 [Machine Learning in R Step-By-Step](https://machinelearningmastery.com/machine-learning-in-r-step-by-step/)
