@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Project Week 4
+title: Week 3
 parent: Updates
 ---
 
-## Project Week 4
+## Week 3
 
 This week for my project, I decided to spend some time on literature review. Since the 311 dataset is quite large, I knew I wanted to narrow down my research to a particular subset of query. After some consideration of the types of possible 311 complaints, I decided to focus on changes in noise complaints throughout New York City over the course of the pandemic.
 
