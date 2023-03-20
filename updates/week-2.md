@@ -4,7 +4,7 @@ title: Week 2
 parent: Updates
 ---
 
-## Week 2
+# Week 2
 
 In order to firm up the original project proposal, this week was mainly spent in doing research online. The research was done in order to determine what machine learning approaches would best fit the data I'd been given, as well to get familiar with the language I'd be working with. The work that my lab does is mostly in R, so even though I had the option to choose either Python or R for the project, I ultimately decided on R in order for my project to better link up with the work the lab is currently doing. 
 
