@@ -4,7 +4,8 @@ title: Week 4
 parent: updates
 ---
 
-# Week 4
+## Week 4
+
 The data was successfully cleaned up, and arranged into the format shown in the following image. The labels on the left hand side represent the individual genes, and each column is labeled with a cellid. The 1's in the matrix represent instances of individuals containing a positive diagnosis of Alzheimer's that also represent the given gene being expressed, while columns that contain blank entries are represented using a period. While the image is currently only showing a small subset of the total dataset, this information was obtained for each individual entry in the diagnosis column.
 
 ### Image of Cleaned Matrix
