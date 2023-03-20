@@ -8,7 +8,7 @@ parent: Updates
 
 This week marked the beginning of the data cleanup process. The image below demonstrates what the raw count matrix looks like, where each invidual cell is given a cellid based on the corresponding DNA sequence, and is associated with a given donor and diagnosis. 
 
-![](Image1.png)
+![](https://github.com/COMS-BC3997-SP23/website-nt2551/blob/main/Image1.png)
 
 For this project, the main focus will be on the portion of the dataset involving individual's with Alzheimer's when compared against those without. In addition to the basic donor information such as age and sex, one of the pieces of information that is provided in the count matrix is braak, which is used as an indicator of severity for both Alzheimer's and Parkison's. Each of the cells classified are also assigned a broadcelltype and a subcluster, which are pieces of information that have been obtained from other projects within the lab. 
 
