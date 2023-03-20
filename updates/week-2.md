@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Week 2
-parent: Updates
+parent: updates
 ---
 
 # Week 2
