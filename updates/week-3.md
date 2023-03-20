@@ -4,7 +4,7 @@ title: Week 3
 parent: updates
 ---
 
-# Week 3
+## Week 3
 
 This week marked the beginning of the data cleanup process. The image below demonstrates what the raw count matrix looks like, where each invidual cell is given a cellid based on the corresponding DNA sequence, and is associated with a given donor and diagnosis. 
 
