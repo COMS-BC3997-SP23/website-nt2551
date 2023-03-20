@@ -5,6 +5,7 @@ parent: Updates
 ---
 
 # Week 5
+
 This week I was finally able to implement the neural net for the first time using the nnet package in R, and the output is seen in the image below. Even though I was able to get it to run on small subsections of the data (the test shown below only involved 10 columns of data, so none of the numbers obtained in the output are of significance), I'm still struggling with scaling up to include all of the entires in the cleaned diagnosis data. 
 
 ### Image of Neural Net Execution
