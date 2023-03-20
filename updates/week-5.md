@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Week 5
-parent: Updates
+parent: updates
 ---
 
 # Week 5
